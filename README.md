@@ -1,3 +1,5 @@
+![Logo](https://pbs.twimg.com/profile_images/984621084606513158/tTJ83UPU_200x200.jpg)
+
 # FizzBuzz TDD Kata #zeroToMasters
 
 ---
@@ -28,3 +30,8 @@ vendor/bin/phpunit
 Create the source file on `src/FizzBuzz.php` and all yours, you can start your TDD.
 
 
+### More
+
+You can find the whole tdd course on here: [https://www.youtube.com/playlist?list=PL0m0TPnF-iCFpTl2qaP0FIn5zhVtOL8El](https://www.youtube.com/playlist?list=PL0m0TPnF-iCFpTl2qaP0FIn5zhVtOL8El)
+
+You can also stay up to date with the latests news from zeroToMasters following the twitter account on: [https://twitter.com/zerotomasters](https://twitter.com/zerotomasters)
